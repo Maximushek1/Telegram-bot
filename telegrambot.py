@@ -7,8 +7,8 @@ import urllib
 
 import requests
 
-BOT_TOKEN = "TELEGRAM_TOKEN"
-OWM_KEY = "WEATHER_TOKEN"
+BOT_TOKEN = "TELEGRAM_TOKEN" #твой АПИ для бота
+OWM_KEY = "WEATHER_TOKEN" #твой АПИ для погоды
 POLLING_TIMEOUT = None
 
 
